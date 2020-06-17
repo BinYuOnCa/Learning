@@ -32,3 +32,9 @@ Further consideration:
 - Mac user/process management
 
 
+
+#### Refences
+
+- log out Mac user  Terminal command
+https://superuser.com/questions/40061/what-is-the-mac-os-x-terminal-command-to-log-out-the-current-user
+
