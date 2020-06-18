@@ -4,7 +4,7 @@ from flask import (
         Blueprint, flash, g, redirect, render_template, request, session, url_for
         )
 
-from werkzeug.security import check_password_bash, generate_password_hash
+from werkzeug.security import check_password_hash, generate_password_hash
 
 from flaskr.db import get_db
 
@@ -22,7 +22,7 @@ def register():
         if not username:
             error = 'Username is required.'
         elif not password:
-            error = 'Password i srequired.'
+            error = 'Password is required.'
         elif db.execute(
                 'SELECT id from user where username = ?', (username,)
                 ).fetchone() is not None:
@@ -59,6 +59,10 @@ def login():
             error = 'Incorrect password.'
 
         if error is None:
+
+            # print('user id:{}'.format(user['id']))
+            # print('------ url_for index :{} --------\n'.format(url_for('index')))
+
             session.clear()
             session['user_id'] = user['id']
             return redirect(url_for('index'))
@@ -74,7 +78,7 @@ def load_logged_in_user():
     if user_id is None:
         g.user = None
     else:
-        g.user = get_db.execute(
+        g.user = get_db().execute(
                 'select * from user where id = ?', (user_id,)
                 ).fetchone()
 
