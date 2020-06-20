@@ -17,5 +17,10 @@ Will use py file and jupyter notebook for now.
 May find other solution for Data storage.
 
 
+## Flask tutorial 
+
+This folder holds all code followed by the [Flask offical tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/)
+
+
 ## TBC
  
