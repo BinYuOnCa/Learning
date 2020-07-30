@@ -1,0 +1,21 @@
+command line mac os force logout other user 
+https://apple.stackexchange.com/questions/126761/way-to-logout-a-user-from-the-command-line-in-os-x-10-9
+
+
+>>>> 37 up>>>>>>>
+sudo launchctl bootout gui/$(id -u <username>)
+or
+sudo launchctl bootout user/$(id -u <username>)
+
+Replace username with the target user's user name or replace the whole subshell with the user's uid. This tells launchctl to teardown the users login session (gui specifically refers to the user's temporary login session, user specifies the users background processes).
+
+You can log yourself out without the sudo to test this.
+
+Note that this will ONLY work on macOS 10.11.x or newer (see launchctl help for more)
+
+>>>> 29 Up >>>>>>
+
+To log out purely from terminal (or a remote ssh session), just kill the loginwindow process:
+
+sudo pkill loginwindow
+You could get fancy and specify the user if multiple users have a loginwindow process, but this is an easy one shot, no prompt way to end a user's graphical session.
