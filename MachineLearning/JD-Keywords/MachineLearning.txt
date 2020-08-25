@@ -1,0 +1,420 @@
+Employer:Prodigy
+
+Job Description
+
+Maintaining, streamlining and hardening existing data pipelines, from ingestion, through ETL and batch processing in order to reliably process billions of records per day.
+Build data support for our personalization and experimentation efforts, solving problems from statistical test automation to building real-time M/L applications.
+Working with Analytics and Product Management to ensure optimal data design and efficiency.
+Assisting Data Analysts and Data Scientists with pipeline and model deployment
+Use an analytical, data-driven approach to drive a deep understanding of our fast-changing business.
+Building data models to deliver insightful analytics while ensuring the highest standard in data integrity.
+
+
+Job Requirements
+
+Bachelor’s degree in Engineering, Computer Science, Statistics, Economics, Mathematics, Finance or related quantitative field, or equivalent practical experience.
+Experience and proficiency with SQL and SQL-like languages
+1-3 years of software engineering experience, especially working on back-end data infrastructure, including CI/CD (i.e. Jenkins) and infrastructure-as-code (i.e. Ansible, Terraform)
+Proficiency in at least one of the following languages: Java, Python, Scala.
+Proficiency in cloud infrastructure and networking
+Proficiency working with Apache Airflow
+Proficiency with Spark and/or similar tools in Hadoop/YARN environment and comfortable with the Linux operating system.
+Ability to creatively solve problems in a fast-paced, rapidly changing environment
+Ability to navigate ambiguity, drive solutions forward and bring stakeholders along.
+Strong problem solving, analytical skills and the capability of managing multiple projects and reporting simultaneously across different stakeholders.
+Strong structured thinking and the ability to easily break down complex ambiguous problems and propose impactful data modeling designs.
+
+Employer: Scribd 
+Qualifications
+1+ years of experience applying Machine Learning in industry, especially related to Personalization
+Strong background in Machine Learning and Recommender Systems, with deep understanding of supervised and unsupervised methods (collaborative-filtering, content-based, deep learning, reinforcement learning, contextual multi-armed bandit, causal inference)
+Great coding skills and software development experience (spark, scala, python, java, tensorflow)
+Successful track record of ownership in challenging cross-functional projects
+Demonstrated ability to design and build complex systems that have positively impacted the business
+BS in Computer Science, Statistics, or related field
+If you are results-oriented, self-driven, motivated to succeed, and are eager to make an impact by working on cutting-edge ML products and shaping Scribd's future, please reach out to us. We are looking forward to talking to you!
+
+Employer:Ohanna.ai 
+
+Ideal Candidate
+
+
+We are seeking a creative and experienced machine learning scientist who is familiar with optimization and mathematical modeling and 3D bin packing. The successful candidate will develop reinforcement learning approaches for modeling complex outcomes based on Big data supported by the cloud. The ideal candidate has a proven track record of publishing at top machine learning conferences or has applied reinforcement learning in solving bin packing problem at a top journal.
+
+
+Requirements/Qualifications 
+
+
+·       MSc (Junior Scientist) or PhD (Senior Scientist) trained in machine learning.
+
+·       Extensive practical experience at systematically designing, training, debugging, and evaluating neural networks using modern frameworks such as Tensorflow, PyTorch, or Theano.
+
+·       Excellent scientific writing and presentation skills.
+
+·       Senior Scientists must demonstrate leadership and the ability to introduce new machine learning techniques.
+
+Emplolyer: Stafflink
+
+As a Machine Learning Engineer, you will develop novel machine learning algorithms and data products for fraud detection, personalization, search and NLP. You will work with petabyte scale datasets and work with high throughput, low latency systems to put your models in production touching lives of more than 300M customers everyday.
+
+We are looking for someone who oozes passion, ownership, and a love of building great things. The Product and Engineering teams will rely heavily on your build. You’ll have a ton of trust and responsibility. So, if challenges excite you, and you’re ready for a big one, let us know.
+
+ 
+
+Responsibilities:
+
+
+• Work with massive data from multiple applications and 300 M+ customers.
+
+• Own the development of machine learning algorithms.
+
+• Design and evaluate novel approaches for handling high-volume real-time data streams in a machine learning environment
+
+• Develop a feedback system to improve the selection of features for the algorithms.
+
+• Design and implement A/B Testing and other validation processes.
+
+• Understand the theory and application of theory for common classification, clustering, NLP, and collaborative filtering.
+
+
+Qualifications:
+
+
+• You have demonstrable software engineering experience in Scala, Java, or Go.
+
+• You have experience in distributed data processing frameworks like Hadoop, Spark or other similar frameworks.
+
+• You respect advanced data structures and can use them to solve your problems.
+
+• You have an applied science degree and 3+ years work experience with software development.
+
+• Python, R, and other high level languages are a bonus.
+
+
+
+
+Employer:Tundra
+The successful candidate will be helping migrate the end client’s (a large bank) on-prem Hadoop data platform onto AWS EMR.
+2+ years’ of experience in production database architectures and data pipeline development
+Proven ability to architect a highly available, distributed, and secure container-based system on a cloud platform (deploying a system utilizing Kubernetes in AWS)
+Experience Architecting, designing, automating, and deploying production-grade data services and flows in AWS.
+Building complex ETL code in Glue
+Experience with Sagemaker, CI/CD (Bamboo) & Lambda skill set
+Good knowledge of Big data related AWS technologies like HIVE, Spark, ETL, Presto, Hadoop, RedShift
+Experience with writing production-level Python.
+Unit and integration testing
+Use of cloud technologies (AWS preferred).
+Direct experience with using ML libraries like sklearn, Pytorch or Spark ML in a production environment
+Knowledge on Business Intelligence and Data Warehousing tools (BI/DW)
+
+Plus
+AWS Big Data Services or Data Lake experience
+AWS Certified Machine Learning
+
+
+Employher: Loopio
+
+In the Machine Learning (ML) team at Loopio, ML Engineers and Data Scientists work together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it matters the most for our customers. Some of the initiatives that you will be working on will include automated language detection, intelligent project import, and search improvements based on Natural Language Processing.
+
+We are looking for an experienced ML engineer to build and support the delivery of machine learning-driven features for our platform. Our perfect candidate has deep technical skills and is comfortable working in evolving technology infrastructure. This is a unique opportunity to join a growing team of creative and passionate individuals committed to solving real world problems with modern AI practices.
+
+You will partner closely with Product Managers, Architects and Data Scientists to use Machine Learning techniques to help us take Loopio’s user value to the next level.
+
+What You'll Be Doing
+Working closely with Product Managers, Architects and Data Scientists to design, build, maintain and optimize our data management and machine learning architecture
+Develop software to deliver and integrate machine learning product capabilities into our platform through REST services
+Working with data scientists and engineers to deploy machine learning models in production
+Develop processes and frameworks to ensure data and model quality
+Work with machine learning scientists to build data processing pipelines supporting data analysis and machine learning tasks, and automate data pipelines in production
+Perform code reviews and testing to ensure software quality is high
+What You'll Bring to the Team
+Experience in a high growth agile software development environment
+Experience developing machine learning-driven products
+Interest and have done work in statistical modeling and machine learning
+A good understanding of ETL, data warehousing, data modeling and data architecting
+The knowledge to work with machine learning scientists and translate proof of concept models into production strength systems
+Development skills in Python (Flask), relational databases such as MySQL or PostgreSQL, NoSQL databases, e.g, Redis or Cassandra, data processing frameworks such asSpark (DataBricks), or Presto (AWS Athena), and deep learning frameworks such as TensorFlow
+Bonus Qualifications
+Experience with container orchestration (leveraging tools like Docker, Kubernetes)
+Experience with MLOps and CI/CD for ML enabled applications
+Familiarity with REST and microservice architectures
+Experience with AWS cloud services: EC2, RDS, S3, Api Gateway, Quicksight, SageMaker etc.
+Where You'll Work
+Right now, we’re all working from home, but when it’s safe to do so again, you’ll have the option of working where you work best
+Do you want to work in an office most days, when public health restrictions lift? You’ll have that opportunity to hot-desk out of our beautiful Kensington Market office
+Do you want to work from home most of the time? Sounds great - we’re all a Zoom call away.
+You’ll collaborate with your team largely remotely. And you’ll also make in-person connections: at company events, sales kick offs, or for full-team meetings
+
+
+
+Employer:Resolver 
+As a Machine Learning Build & Tooling Engineer, you’re a key stakeholder and an owner of the ML build and deployment infrastructure at Resolver. You’ll create and improve the tooling used to accelerate our ML team!
+
+
+This is a unique opportunity to get in at the ground level as we upscale. You’ll help build our ML practice to drive analytics and insights with Resolver’s unique data sets. Using your knowledge of tools and deployment, you’ll help Resolver revolutionize an industry with actionable data and insights.
+
+
+Your Responsibilities:
+
+Implement and maintain annotation tooling for Natural Language Processing (Prodigy)
+Support the implementations of ML experimental tracking and analysis
+Continuously improve our training pipelines (e.g. model check-pointing)
+Participate in ad-hoc programming (Python) sprints
+Support experimental and deployment pipelines
+Build and maintain docker images for training and deployment
+Select, configure and maintain training and deployment machines
+Implement model architectures using lower level deep learning libraries (e.g. Tensorflow, PyTorch)
+Implement data pipelines using libraries such as Tensorflow, to optimize GPUs
+
+Your Background:
+
+Extensive Python experience
+You’ve built and deployed models in low-level libraries such as Tensorflow, Keras or PyTorch
+You’ve built data pipelines with libraries like Pandas, Numpy and Tensorflow
+You understand how to optimize pipelines from storage, through model consumption and back to storage
+You’ve worked with cloud computing for ML (AWS, GCP or Azure) and Docker containers
+You understand Artificial Intelligence theory!
+
+
+Employer: Mappedin
+
+Founded in 2011, Mappedin powers search and discovery indoors, enabling consumers to find what they’re looking for with speed and ease. Our software platform provides industry leading tools to manage dynamic indoor spatial data and offer wayfinding experiences for customer-facing applications, including a recent collaboration with Apple Maps.
+
+Mappedin works with the ten largest malls in Canada, the largest REITs in the US, and in stores, hospitals, campuses, and airports around the world.
+
+The Back End Services Team at Mappedin owns all of the core infrastructure, architecture, and (some) services that power the Mappedin apps as they are used by millions of people.
+
+Who You Are And What You’ll Do
+
+We are working on a big project that will save lives and make the world a better place. Join us to help if you:
+Can solve computer vision problems using machine learning, and
+Have shipped a machine learning solution to production
+This isn’t just a research project, you will be joining a team of ML developers (and others) to train, build, and deliver a system to solve a specific, real world problem. What that problem is I can’t put in this job posting, for confidentiality reasons. Suffice to say it has to do with mapping the indoors (which is what Mappedin is all about).
+
+Ultimately, if we’re successful, there will be people alive in the future that wouldn’t have been otherwise. So we need to do this right, and part of that is hiring the right person. I hope that’s you.
+
+What are some challenges?
+
+Mappedin moves fast and we sometimes change directions. I can tell you what you’ll be doing for the next six months, but for the next 12? I can’t guarantee. On the other hand, there is a lot of high value work to do, and it won’t be boring.
+
+There are some tough challenges left to solve. We’ve done the research and we don’t think what we’re doing has been done before, and certainly not at this level. You will be inventing things, and probably filing patents.
+
+There will be a timeline for this project. It hasn’t started counting down yet, but when it does it will be a straight shot to the end. I don’t expect any crunch, but we’re not going to be coasting or taking it easy.
+
+Behind the scenes
+
+Mappedin actively uses a number of ML techniques in our products. Mostly various flavours of neural networks (like RNNs, CNNs, and GANs). We use Python for ML, and a mix of JavaScript, Python, and Go for backend services.
+
+There’s a lot of trust here at Mappedin. At present, we are working from home but we are working on providing a more flexible environment once the pandemic eases. If you’re local, there will probably be a few days a week when you can expect other people to be in the office, but this role could also be fully remote. We also have a generous vacation policy, and we all work together to help you produce your best work. We stay curious, challenge opinions, take risks, and learn from mistakes. We’re competitive and we like to win together.
+
+
+
+Employer:ATS Automation 
+We attract some of the most talented and motivated individuals from a range of fields, with our global offering and growth opportunities as we expand on a global scale.
+
+Major Duties
+
+Job Description
+
+As a member of a highly motivated, dynamic team, you will select, design and deploy world-class advanced machine learning and intelligent solutions that will be implemented on a wide range of automation equipment.
+
+Duties Involve
+determining and documenting data analytics requirements
+the evaluation of 3 rd party AI and ML algorithms and/or solutions
+developing design concepts and architectures that incorporate 3 rd party algorithms and/or solutions
+the integration of appropriate 3 rd party AI and ML algorithms and/or solutions.
+The successful candidate will support software engineers in gathering and handling of appropriate data and assist with deploying systems in specific applications.
+
+
+Specific Responsibilities
+Work with customers, project managers, machine designers, service and software designers to design and deploy industry leading analytics with the goals of enhanced data analysis
+Working with external vendors and additional AI/ML resources to develop your personal capabilities and the AI/ML capabilities of the ATS team.
+Required to understand and evaluate ML and AI providers and algorithms and assist in determining which algorithms or packages to deploy
+Collaboratively evaluate the data required for effective machine learning and AI algorithms
+Select features for building and optimizing classifiers using machine learning techniques
+Assist with the development and deployment of data pipelines
+Data mining using state-of-the-art methods
+Processing, cleansing, and verifying the integrity of data used for analysis
+Working with machine data, images and image processing data sets
+Doing ad-hoc AI and ML analysis and presenting results in a clear manner
+Evaluation and sourcing of automated anomaly detection systems and tracking of its performance
+Support others who are deploying and testing developed systems
+Provide accurate documentation for each project
+Advise customer on solving technical problems.
+Ensure that all business activities are performed with the highest ethical standards and in compliance with the ATS Code of Business Conduct
+Adhere to all health and safety rules and procedures
+These responsibilities are subject to change as a function of the individual’s abilities.
+
+
+Education
+
+QUALIFICATIONS:
+A post-secondary engineering degree, diploma or equivalent, specializing in mathematics, Machine Learning, Artificial intelligence, electrical, software, systems or computer engineering.
+A Master’s degree is considered beneficial.
+
+
+Experience
+Direct experience with the development and deployment of multiple successful AI/ML based solutions
+Data analytics experience
+Statistical analysis experience
+Experience with both Cloud based and on-prem / edge based computing architectures
+Experience with software development in a team environment
+Strong problem solving skills
+Programming / software development skills is an asset
+Ability to communicate effectively, both orally and in writing.
+A self-starter with the ability to work as part of a team in a fast paced environment with minimal supervision
+
+
+Employer:Splunk 
+Do you have a passion for building software that leverages the power of machine learning? Do you want to be part of the founding team for a new mobile first product and build something from the ground up?
+
+Splunk's Toronto Engineering team is looking for a machine learning software engineer to build an innovative solution that leverages machine learning at the edge. You will get to work with leading edge hardware accelerated AI like TPUs. You will be working with the latest streaming machine learning algorithms to do anomaly detection on environmental sensor data. You will also have the chance to work on object detection and image classification using neural networks. Ideally we are looking for someone with prior experience who can be a thought leader on our team.
+
+Requirements
+8+ years of meaningful industry experience
+You have experience with streaming machine learning
+You have experience building neural networks for object detection and image classification
+You have experience with a variety of machine learning algorithms including kNN and isolation forest.
+You have experience testing and tuning machine learning algorithms
+You have experience with Tensorflow or Pytorch
+Experience writing software in Python
+Experience with embedded systems, Google Coral or Raspberry Pi is an asset
+Proven experience in leading architecture and technical design
+Comfortable working with development on Linux, Unix, and MacOS systems
+You have strong communication/interpersonal skills, both verbal and written
+You have an ability to learn new technologies quickly and understand a wide variety of technical challenges to be solved
+Nice to have
+You have experience with Java
+
+
+Employer:SoundHound
+
+Our diverse team of engineers, UX/UI designers, writers, data scientists and linguists are all passionate about creating a world with more conversations. With more than 14 years of expertise in voice technology, we have hundreds of millions of end users, and a worldwide team in six countries building solutions for a voice-first world.
+
+About The Role
+This is a fantastic opportunity to join the core group working on Speech Recognition at SoundHound
+Work on building large scale Statistical Language Models, a critical system in Speech Recognition
+Run experiments and tune parameters to improve Statistical Language Models
+Build prototypes to explore novel methods/algorithms to improve the Statistical Language Models
+Identify new techniques to explore, prototype them, and then implement winning ideas in production
+Requirements:
+Proficient in one of Java or C++ or Python
+Excellent algorithms skills and ability to write efficient code
+Good understanding of Machine Learning algorithms
+Strong problem solving and communication skills
+BS/MS in Computer Science or equivalent
+5+ years of relevant industry experience
+Nice-to-haves:
+Experience building production systems based on Machine Learning lifecycle
+Experience with application of Deep Neural Network methods to Natural Language Processing problems
+Familiarity with Statistical Language Modeling
+Familiarity with MapReduce/Spark and other relevant infrastructure
+Experience working with Speech Recognition technology
+
+
+Employer:Micro Focus 
+Interset Software uses big data and advanced behavioral analytics to detect and prevent the theft of intellectual property...simply put, WE CATCH BAD GUYS WITH MATH!!!
+
+Part of the Micro Focus group of companies, we are a fast-paced, all-hands-on-deck kind of environment where you are respected and listened to from day one. We have a start-up feel within the stability and structure of a large global company.
+
+We are currently looking to fill a development position focused on extending the existing analytics platform and related capabilities to add unprecedented analytics flexibility for our customers. This will include enabling Data Scientists to manipulate and combine events and models to extend and customize the analytics in ways that provide unique value for each customer.
+
+Were looking for a software developer whos passionate about what they do, takes a creative approach to problem solving and will be the champion for creating innovative machine learning hooks that deliver real value and perform in big data environments.
+
+If youre passionate about true machine learning and want to be part of a company building solutions that leverage the latest in big data technology, we want to talk to you!!
+
+What You'll Do
+Implement model data flows to support running cutting-edge machine learning techniques on massive amounts of data
+Work with product managers and data scientists to turn new features and algorithms into beautiful, battle-tested code
+Work with the technologies we use to analyze and identify cyber-security threats for our customers (Elasticsearch, Spark, HBase, Kafka, Vertica, NiFi, using Java and Scala)
+Work side by side with some of the smartest minds in the fields of machine learning and behavioural analytics
+Create efficient and robust cloud-based solutions, leveraging the best in cloud technologies.
+
+Who You Are
+Undergraduate or Masters degree in Computer Science or equivalent engineering experience
+Strong interest in software design, distributed computing, and databases
+Experience developing in a JVM environment (Java, Scala, Clojure)
+At least two years of experience developing with or using Big Data & Analytics stacks/tools such as Hadoop, HBase, Spark, Presto and Vertica.
+Experience implementing and using streaming platforms such as SparkSQL, Flink, Kafka, Storm, etc.
+Experience with Kubernetes, Docker, Ansible or any other infrastructure or containerization management/automation platform.
+Familiarity leveraging AWS EMR, Azure, GCP cloud technologies best practices to enable the distribution and analysis of big data on the cloud would be considered an asset.
+
+Nice To Haves
+Familiarity with data science or machine learning packages (pandas, R, TensorFlow, etc...)
+Familiarity with virtualization technologies (VMWare ESX, Docker)
+Contributions to open source software (code, docs or mailing list posts)
+Interest in understanding and analyzing diverse types of data
+
+
+
+Employer:Synopsys 
+
+Our Silicon IP business is all about integrating more capabilities into an SoC—faster. We offer the world’s broadest portfolio of silicon IP—predesigned blocks of logic, memory, interfaces, analog, security, and embedded processors. All to help customers integrate more capabilities. Meet unique performance, power, and size requirements of their target applications. And get differentiated products to market quickly with reduced risk.
+
+Machine Learning and AI Tools Engineering Expert
+
+We are a leading edge R&D team developing an advanced Embedded Vision Processor (EVP) driving computer vision, image analytics and augmented reality applications for embedded systems. The EVP combines general-purpose vision vector processing and a
+specialized programmable engine supporting deep learning approaches
+We are looking for an experienced engineer to work on the development of programming and analysis tools for the programmable machine learning and AI accelerators.
+
+Key Qualifications
+B.Sc. or M.Sc. with a Minimum of 5 years of related experience with the development of embedded software tools for parallel embedded systems
+Good understanding of vision, imaging or video applications, and the use of embedded processors (GP-GPU, DSP, FPGA, multi-core platforms)
+Significant experience with the use and development of programming tools for embedded systems (compilers, debuggers, ISS, profiling tools, runtime, etc.)
+Knowledge and experience with the use of highly parallel processors, GP-GPUs
+Compiler development experience is a very useful asset
+Good exposure to vision, imaging or video applications
+Basic knowledge of machine learning principles and frameworks
+Basic exposure to FPGA-based prototyping boards
+Knowledge of operating system fundamentals
+Strong programming skills in C and C++, and assembler
+Basic programming skills in Java
+Experience with scripting languages like Python
+Experience with the use of Linux and Windows O/S
+Experience with SW development processes: project planning, version control, bug tracking
+Excellent teamwork and communication skills
+
+Preferred Experience
+Development of optimized NN Compiler
+Contribution to the development of performance analysis and resource utilization tools for AI accelerators
+Contributions to the EV AI runtime
+Benchmarking of leading edge network on AI accelerators
+Close interaction with System, Hardware and Software architects to best leverage the features of hardware accelerators
+
+
+
+Employer:Nugget.ai
+
+As a Machine Learning Engineer, he/she will be responsible for developing algorithms that will be the basis of our mathematical models used to understand and automate the trading process of sports betting markets.
+
+The candidate MUST have a strong background in Machine Learning, Statistics, and Algorithm Development experience.
+
+Responsibilities
+Perform industrial research by developing math models and algorithms to be used in automated trading applications in the sports betting domain
+Evaluate state-of-the-art statistical modelling and Machine Learning approaches using large amounts of historical data
+Analyze, Visualize and Model large datasets using R and Python
+Acquire, Clean, and Transform data using R and Python
+Other duties as assigned
+
+
+What You Bring To The Team
+Degree or Diploma in Computer Science, Software Engineering, Computational Statistics or equivalent degree or experience; MS or PHD in Computer Science, specializing in Machine Learning is desirable
+Strong analytical, conceptual, and problem-solving abilities with attention to detail
+Ability to multi-task and manage multiple assignments in a fast-paced environment
+Strong written and oral communication skills
+Initiative to work independently, but also able to work effectively with team members in different locations
+Flexibility and adaptability to business requirements and priority changes
+3+ years of relevant experience with statistical computing in R or Python
+3+ years of experience with Machine Learning algorithms and Probabilistic Modelling
+Strong background in statistics, preferably Bayesian Statistics
+Experience with Bayesian Inference using Statistical Languages for MCMC such as Stan, JAGS, WinBugs is a big plus
+Experience using cloud computing platforms such as EC2 (AWS)Domain experience in on-line gaming and entertainment industry, Financial Markets (such as Stock Exchange, Options, Bonds, ForEx, etc), or other types of 2-sided markets is a plus
+Experience with SQL and SQL Server
+Experience with .NET Framework and C# is preferable
+Experience with modern R packages and technologies such as dplyr, tidyR, data.table, shinyR
+Experience with Neural Networks or Deep Learning on large problems is a plus
+Hadoop, MapReduce or High Performance Computing is a plus
+
+Desired Skills and Experience
+SQL, Python, AWS, Machine Learning, Statistics, Algorithm Development, R
+
