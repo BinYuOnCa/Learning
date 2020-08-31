@@ -1,0 +1,32 @@
+The Data Collections Unit within the Data Collection and Decision Support Solutions Branch of the Community Services I&IT Cluster CSC located in Toronto supports a number of applications that manage the financial relationships of the education ministries with the education sector. 
+
+These applications have all been built using Oracle software solutions. 
+The three major software components upon which these systems are built are:Oracle Hyperion Planning (Planning),Oracle Application Express (APEX) and Oracle Data Integration (ODI). 
+
+During this fiscal year the Business and Finance Unit of DDSB has been mandated to complete a number of upgrades of the systems that support the post-secondary education sector and are owned by the Ministry of Training Colleges and Universities. 
+
+The upgrades will impact all three of the application components noted above and will also involve upgrades to the underlying operating systems (Solaris and Windows).
+
+It will also involve deployment on new servers. It is therefore a major upgrade project.
+ The two main systems to be upgraded are: The College Financial Information System (CFIS), Funding Model Administration (FMA). 
+ The main focus of this RFS is the Oracle development tool set and in particular APEX.
+ 
+One of the major upgrades is moving FMA and CFIS applications using APEX (and ODI) to a shared computing platform. 
+ Both applications will also be upgraded to the most current version of APEX using universal theme so testing and remediation will be required as well as investing any new features that might make the system perform better or better support the application. 
+ 
+ A key objective and requirement of this assignment is to ensure that the upgraded versions of these applications are in full compliance to the Accessibility for Ontarians with Disabilities Act (AODA).
+
+
+Must haves:
+
+In depth complex Oracle application development, must have experience in Oracle APEX (Application Express).
+The main review will be for in depth development abilities in APEX, they must have developed applications, not simply used this tool for upgrades/enhancements. Current program is using version 18.2
+Must have excellent SQL PL/SQL development skills, must have demonstrated experience developing customized Oracle modules in SQL and PL/SQL
+JavaScript API experience required
+Must have experience developing on a migration/upgrade project and be able to complete full stack development
+Experience with Data Manipulation Language in the APEX platform (update, insert, delete etc.)
+ 
+Assets:
+
+Experience developing with financial applications (transfer payments, invoices etc.)
+Experience in a Hyperion Planning Environment

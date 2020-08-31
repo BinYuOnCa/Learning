@@ -1,0 +1,42 @@
+recall / precision
+accuracy
+PR curve
+ROC curve
+
+training loss vs validation loss
+
+
+
+How would you detect fraud in a (nearly) real-time setting that demands the implementation of scalable ML techniques that are able to ingest and analyze massive amounts of streaming data?
+
+Just talk about your approach to deal with data im balance, and feedback latency.
+
+
+
+
+what's random forest,
+
+why you use this model,
+
+depends on role, may be focus on ML more, or data , or even statis 
+or reearch role 
+
+
+Amazon JD on DS(ML)
+
+need the bar, core concept ready , and then use different team, with different skill set.
+
+it's not all the case.
+
+NLP, 
+
+
+
+AWS cloud experience for DS(ML) role?
+
+depends on the role again 
+
+eg. use the resource on AWS, run code on AWS, etc.
+
+maybe more: create application, deploy to AWS, 
+
