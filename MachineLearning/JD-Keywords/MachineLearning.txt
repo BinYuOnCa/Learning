@@ -1,3 +1,17 @@
+
+Technical Skills
+Python 3: Numpy, Pandas, Matplotlib, SciKit Learn,, Flask, Dash
+Data Engineering: Numpy, Pandas, SQLAlchemy, Psycopg2, Matplotlib, Dash, Beautiful Soup
+Cloud Computing: Amazon Web Services, Google Cloud Computing, Google Colab
+Machine Learning: SciKit Learn, PyTorch, Keras, Tensorflow, NLTK, Spacy, FastAI,
+Reinforcement Learning: OpenAI-Gym, DQN
+Databases: SQL (Postres, MySQL), Graph (Neo4j)
+Web Technologies: Flask, API interactions, HTML, CSS, Javascript (D3, Plotly, Leaflet), Heroku
+Advanced Excel: VBA Macros, Vlookup and index/match, What-If Analysis, Pivot Tables
+Other: Git
+
+
+
 Employer:Prodigy
 
 Job Description

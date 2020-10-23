@@ -1,0 +1,78 @@
+---- start jupyter notebook ----
+
+
+. ~/GitRepos/Jupyter/bin/activate
+
+cd ~/GitRepos/study/MachineLearning/Telus-ML
+
+jupyter notebook --ip 192.168.1.105 --port 8888 &
+
+
+jobs
+
+bg
+
+fg
+
+
+----
+
+sudo su - postgres
+
+postgres@M720-ubuntu:~$ psql
+psql (10.14 (Ubuntu 10.14-0ubuntu0.18.04.1))
+Type "help" for help.
+
+postgres-# \l
+                                  List of databases
+   Name    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
+-----------+----------+----------+-------------+-------------+-----------------------
+ leetcode  | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+ postgres  | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+ template0 | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
+ template1 | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
+ zlydb     | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+(5 rows)
+
+postgres=# create database telus_test;
+CREATE DATABASE
+postgres=# \l
+                                  List of databases
+    Name    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
+------------+----------+----------+-------------+-------------+-----------------------
+ leetcode   | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+ postgres   | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+ telus_test | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+ template0  | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | =c/postgres          +
+            |          |          |             |             | postgres=CTc/postgres
+ template1  | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | =c/postgres          +
+            |          |          |             |             | postgres=CTc/postgres
+ zlydb      | postgres | UTF8     | en_CA.UTF-8 | en_CA.UTF-8 | 
+(6 rows)
+
+postgres=# \c telus_test
+You are now connected to database "telus_test" as user "postgres".
+telus_test=# 
+telus_test=# alter user yubin with password 'DataSci2020';
+ALTER ROLE
+
+
+
+
+
+COPY Read_me FROM 'Read_me.csv' WITH CSV HEADER; -- must be superuser
+
+
+
+
+
+zlydb=# \l    # list all databases
+
+zlydb=# \dt   # list all tables
+
+zlydb=# \q    # quit 
+
+zlydb=# \?    # help 
+

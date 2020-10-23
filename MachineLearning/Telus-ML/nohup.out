@@ -1,0 +1,21 @@
+[I 13:15:17.040 NotebookApp] Serving notebooks from local directory: /home/yubin/GitRepos/study/MachineLearning/Telus-ML
+[I 13:15:17.040 NotebookApp] The Jupyter Notebook is running at:
+[I 13:15:17.041 NotebookApp] http://192.168.1.105:8888/
+[I 13:15:17.041 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[2666:2666:1001/131517.666706:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2629:2684:1001/131517.684277:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+[1001/131522.812320:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[I 13:16:25.570 NotebookApp] 302 GET / (192.168.1.143) 1.36ms
+[I 13:17:49.556 NotebookApp] 302 GET / (192.168.1.105) 0.65ms
+[I 13:18:27.209 NotebookApp] Interrupted...
+[I 13:18:27.210 NotebookApp] Shutting down 0 kernels
+[I 13:18:51.934 NotebookApp] Serving notebooks from local directory: /home/yubin/GitRepos/study/MachineLearning/Telus-ML
+[I 13:18:51.934 NotebookApp] The Jupyter Notebook is running at:
+[I 13:18:51.934 NotebookApp] http://192.168.1.105:8888/
+[I 13:18:51.934 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+Opening in existing browser session.
+[1001/131852.245636:ERROR:nacl_helper_linux.cc(308)] NaCl helper process running without a sandbox!
+Most likely you need to configure your SUID sandbox correctly
+[I 13:19:04.553 NotebookApp] Interrupted...
+[I 13:19:04.554 NotebookApp] Shutting down 0 kernels

@@ -1,0 +1,18 @@
+Field,Desc
+CCYYMM,Billing Year and Month
+BAN,Billing account Number
+MOBILE_PHONE_NO,Mobile Phone Number
+VOICE_ROAM_USA_AIR_CHRG_AMT,USA Local voice Roaming Charged Amount 
+VOICE_ROAM_USA_LD_CHRG_AMT,USA Long Distance Roaming Charged Amount
+VOICE_ROAM_INTL_AIR_CHRG_AMT,International Local voice Roaming Charged Amount 
+VOICE_ROAM_INTL_LD_CHRG_AMT,International Long Distance Roaming Charged Amount
+DATA_BILLED_AMT_CDA,Domestic (Canada) Data Charged Amount
+DATA_ROAM_AMT_USA,USA data roaming Charged Amount
+DATA_ROAM_AMT_INTL,International data roaming Charged Amount
+SMS_TOTAL_AMOUNT,"SMS charged Amount (Canada to Canada, Canada to International)"
+SMS_ROAM_AMOUNT,SMS roaming charged Amount
+RPT_SVP,Segment
+ACTV_REASON_CODE,Credit Code
+ACTV_REASON_DESCRIPTION,Credit Code Description
+ADJ_CREATION_DATE,Date when the Credit was given
+ACTV_AMT,Credit Amount
